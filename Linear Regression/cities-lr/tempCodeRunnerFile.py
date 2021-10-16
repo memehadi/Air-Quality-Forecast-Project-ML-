@@ -1,0 +1,5 @@
+plt.plot(data['Date'], data['truth'])
+# plt.title('values Vs Years')
+# plt.xlabel('Date')
+# plt.ylabel('truth')
+# plt.show()
